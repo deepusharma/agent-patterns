@@ -50,3 +50,5 @@ assumed — and makes the code easier to debug, adapt, and explain.
   - OpenRouter: `meta-llama/llama-3.3-70b-instruct` (free tier)
 - Each pattern has its own `requirements.txt`
 
+- 
+
